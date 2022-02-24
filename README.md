@@ -15,4 +15,7 @@ E – Etoile          :   679,559 points
 
 F – Forever jammed  :   819,598 points
 
+commands : g++ main.cpp
+./a.exe
+
      Total score    :  8,947,403 points
